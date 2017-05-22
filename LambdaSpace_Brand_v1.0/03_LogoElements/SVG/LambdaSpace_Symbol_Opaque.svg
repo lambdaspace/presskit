@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="100px" height="100px" viewBox="0 0 100 100" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>LambdaSpace_Symbol_Opaque</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M72.5497474,71.8229 L44.8131,18.1974 L32.4371,16.1354 L26.2784,18.1979 L35.5307566,22.3226132 L49.4529594,50.1665688 L26.2501,78.0104 L38.6251,78.0104 L54.0940063,59.4485125 L63.3751,78.0104 L75.7501,78.0104 L79.8747,71.8229 L72.5497474,71.8229 Z" id="path-1"></path>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.203921569   0 0 0 0 0.250980392   0 0 0 0 0.294117647  0 0 0 0.25 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="24.4652074%" y1="81.0292407%" x2="73.4488479%" y2="21.5437803%" id="linearGradient-3">
+            <stop stop-color="#EBEBE4" offset="0%"></stop>
+            <stop stop-color="#E4E5DE" offset="50%"></stop>
+            <stop stop-color="#EFEFEF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="24.926087%" y1="91.3193548%" x2="82.2521739%" y2="36.0774194%" id="linearGradient-4">
+            <stop stop-color="#E4E5DE" offset="0%"></stop>
+            <stop stop-color="#DEDFD8" offset="27.12%"></stop>
+            <stop stop-color="#D1D2CB" offset="57.08%"></stop>
+            <stop stop-color="#C7C8C1" offset="73.36%"></stop>
+            <stop stop-color="#ADAEA7" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="1.59462366%" y1="102.150896%" x2="99.5394265%" y2="19.9659498%" id="linearGradient-5">
+            <stop stop-color="#EBEBE4" offset="0%"></stop>
+            <stop stop-color="#EBEBE4" offset="10%"></stop>
+            <stop stop-color="#D7D8D3" offset="45.94%"></stop>
+            <stop stop-color="#CECFCB" offset="72%"></stop>
+            <stop stop-color="#BEBFB9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="17.1635135%" y1="54.5580645%" x2="93.8540541%" y2="-9.53387097%" id="linearGradient-6">
+            <stop stop-color="#ADAEA7" offset="0%"></stop>
+            <stop stop-color="#BDBEB7" offset="17.62%"></stop>
+            <stop stop-color="#D9DAD3" offset="54.72%"></stop>
+            <stop stop-color="#E4E5DE" offset="76.1%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LambdaSpace_Symbol_Opaque">
+            <path d="M50,0 C22.3858586,0 0,22.3858586 0,50 C0,77.6141414 22.3858586,100 50,100 C77.6141414,100 100,77.6141414 100,50 C100,22.3858586 77.6141414,0 50,0 Z" id="Circle" fill="#74BBBE"></path>
+            <g id="Shadow" fill-opacity="1" fill="black">
+                <use filter="url(#filter-2)" xlink:href="#path-1"></use>
+            </g>
+            <g id="Base" transform="translate(26.000000, 16.000000)">
+                <polygon id="Fill-3" fill="url(#linearGradient-3)" points="49.7501 62.0104 37.3751 62.0104 6.4371 0.1354 18.8131 2.1974"></polygon>
+                <polygon id="Fill-5" fill="url(#linearGradient-4)" points="9.5314 6.3229 0.2784 2.1979 6.4374 0.1359"></polygon>
+                <polygon id="Fill-7" fill="url(#linearGradient-5)" points="0.2501 62.0104 12.6251 62.0104 28.0941 43.4484 23.4531 34.1664"></polygon>
+                <polygon id="Fill-9" fill="url(#linearGradient-6)" points="46.5497 55.8229 49.7497 62.0099 53.8747 55.8229"></polygon>
+            </g>
+            <g id="Shadows" transform="translate(32.000000, 16.000000)">
+                <polygon id="Fill-13" fill="#ADAEA7" points="0.4947 0.2494 0.3957 0.2824 3.3837 6.2574 3.5317 6.3224"></polygon>
+                <polygon id="Fill-15" fill="#BEBFB9" points="17.5037 34.2675 17.4317 34.3535 22.0217 43.5345 22.0937 43.4475"></polygon>
+                <polygon id="Fill-21" fill="#ADAEA7" points="40.603 55.926 43.75 62.01 43.815 61.913 40.719 55.926"></polygon>
+            </g>
+            <g id="Highlights" transform="translate(26.000000, 16.000000)" fill="#FFFFFF">
+                <polygon id="Fill-11" points="6.4376 0.1354 6.4946 0.2494 18.7446 2.2914 49.6346 62.0104 49.7506 62.0104 18.8126 2.1984"></polygon>
+                <polygon id="Fill-17" opacity="0.25" points="23.4532 34.1667 0.2502 62.0107 0.3842 62.0107 23.5032 34.2677"></polygon>
+                <polygon id="Fill-19" opacity="0.5" points="6.4376 0.1354 0.2786 2.1984 0.4176 2.2604 6.4946 0.2494"></polygon>
+                <polygon id="Fill-23" opacity="0.5" points="46.603 55.926 53.806 55.926 53.875 55.823 46.55 55.823"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

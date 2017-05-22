@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="420px" height="200px" viewBox="0 0 420 200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" style="background: #FFFFFF;">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>LambdaSpace_ColorPalette</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Resources" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="LambdaSpace_ColorPalette">
+            <g transform="translate(18.000000, 45.000000)">
+                <g id="White-Lilac" transform="translate(320.000000, 0.000000)">
+                    <circle id="Oval" fill="#F6F5FA" cx="32" cy="32" r="32"></circle>
+                    <path d="M13.0780688,57.8088733 C5.14766175,51.9848273 0,42.5935641 0,32 C0,20.8080856 5.74558916,10.9581254 14.448062,5.238825 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#DEDCEE"></path>
+                    <path d="M13.0780688,57.8088733 C18.3778618,61.7010112 24.9204521,64 32,64 C38.518061,64 44.5809602,62.0512208 49.6378331,58.7045268 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#FEFEFE"></path>
+                </g>
+                <g id="Cararra" transform="translate(240.000000, 0.000000)">
+                    <circle id="Oval" fill="#E2E3DA" cx="32" cy="32" r="32"></circle>
+                    <path d="M13.0780688,57.8088733 C5.14766175,51.9848273 0,42.5935641 0,32 C0,20.8080856 5.74558916,10.9581254 14.448062,5.238825 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#CBCCC4"></path>
+                    <path d="M13.0780688,57.8088733 C18.3778618,61.7010112 24.9204521,64 32,64 C38.518061,64 44.5809602,62.0512208 49.6378331,58.7045268 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#E7E8E1"></path>
+                </g>
+                <g id="Tacao" transform="translate(160.000000, 0.000000)">
+                    <circle id="Oval" fill="#EFB57E" cx="32" cy="32" r="32"></circle>
+                    <path d="M13.0780688,57.8088733 C5.14766175,51.9848273 0,42.5935641 0,32 C0,20.8080856 5.74558916,10.9581254 14.448062,5.238825 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#EA9C50"></path>
+                    <path d="M13.0780688,57.8088733 C18.3778618,61.7010112 24.9204521,64 32,64 C38.518061,64 44.5809602,62.0512208 49.6378331,58.7045268 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#F1C295"></path>
+                </g>
+                <g id="Neptune" transform="translate(80.000000, 0.000000)">
+                    <circle id="Oval" fill="#74BBBE" cx="32" cy="32" r="32"></circle>
+                    <path d="M13.0780688,57.8088733 C5.14766175,51.9848273 0,42.5935641 0,32 C0,20.8080856 5.74558916,10.9581254 14.448062,5.238825 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#5B9597"></path>
+                    <path d="M13.0780688,57.8088733 C18.3778618,61.7010112 24.9204521,64 32,64 C38.518061,64 44.5809602,62.0512208 49.6378331,58.7045268 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#8FC7CA"></path>
+                </g>
+                <g id="River-Bed">
+                    <circle id="Oval" fill="#42505E" cx="32" cy="32" r="32"></circle>
+                    <path d="M13.0780688,57.8088733 C5.14766175,51.9848273 0,42.5935641 0,32 C0,20.8080856 5.74558916,10.9581254 14.448062,5.238825 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#34404B"></path>
+                    <path d="M13.0780688,57.8088733 C18.3778618,61.7010112 24.9204521,64 32,64 C38.518061,64 44.5809602,62.0512208 49.6378331,58.7045268 L32.7949709,33.1142652 L13.0780688,57.8088733 Z" id="Combined-Shape" fill="#54616E"></path>
+                </g>
+            </g>
+            <text id="River-Bed-#42505e-Sh" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" line-spacing="15" letter-spacing="-0.042857144" fill="#42505E">
+                <tspan x="24.4888571" y="22">River Bed</tspan>
+                <tspan x="26.102" y="37" font-family="Lato-Regular, Lato" font-weight="normal">#42505e</tspan>
+                <tspan x="50" y="52" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="50" y="67" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="50" y="82" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="50" y="97" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="50" y="112" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="34.0451429" y="127" font-family="Lato-Regular, Lato" font-weight="normal">Shade</tspan>
+                <tspan x="25.91" y="142" font-family="Lato-Regular, Lato" font-weight="normal">#34404b</tspan>
+                <tspan x="50" y="157" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="26.3158571" y="172" font-family="Lato-Regular, Lato" font-weight="normal">Highlight</tspan>
+                <tspan x="26.102" y="187" font-family="Lato-Regular, Lato" font-weight="normal">#54616e</tspan>
+            </text>
+            <text id="Neptune-#74bbbf-Shad" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" line-spacing="15" letter-spacing="-0.042857144" fill="#42505E">
+                <tspan x="106.846" y="22">Neptune</tspan>
+                <tspan x="107.575" y="37" font-family="Lato-Regular, Lato" font-weight="normal">#74bbbf</tspan>
+                <tspan x="130" y="52" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="130" y="67" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="130" y="82" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="130" y="97" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="130" y="112" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="114.045143" y="127" font-family="Lato-Regular, Lato" font-weight="normal">Shade</tspan>
+                <tspan x="106.405" y="142" font-family="Lato-Regular, Lato" font-weight="normal">#5c9597</tspan>
+                <tspan x="130" y="157" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="106.315857" y="172" font-family="Lato-Regular, Lato" font-weight="normal">Highlight</tspan>
+                <tspan x="108.994" y="187" font-family="Lato-Regular, Lato" font-weight="normal">#8fc7ca</tspan>
+            </text>
+            <text id="Tacao-#efb57e-Shade" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" line-spacing="15" letter-spacing="-0.042857144" fill="#42505E">
+                <tspan x="194.741143" y="22">Tacao</tspan>
+                <tspan x="225.258857" y="22" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="187.898571" y="37" font-family="Lato-Regular, Lato" font-weight="normal">#efb57e</tspan>
+                <tspan x="210" y="52" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="210" y="67" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="210" y="82" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="210" y="97" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="210" y="112" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="194.045143" y="127" font-family="Lato-Regular, Lato" font-weight="normal">Shade</tspan>
+                <tspan x="186.837" y="142" font-family="Lato-Regular, Lato" font-weight="normal">#eb9c50</tspan>
+                <tspan x="210" y="157" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="186.315857" y="172" font-family="Lato-Regular, Lato" font-weight="normal">Highlight</tspan>
+                <tspan x="187.782" y="187" font-family="Lato-Regular, Lato" font-weight="normal">#f2c295</tspan>
+            </text>
+            <text id="Cararra-#e2e3da-Shad" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" line-spacing="15" letter-spacing="-0.042857144" fill="#42505E">
+                <tspan x="270.41" y="22">Cararra</tspan>
+                <tspan x="309.59" y="22" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="267.032" y="37" font-family="Lato-Regular, Lato" font-weight="normal">#e2e3da</tspan>
+                <tspan x="290" y="52" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="290" y="67" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="290" y="82" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="290" y="97" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="290" y="112" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="274.045143" y="127" font-family="Lato-Regular, Lato" font-weight="normal">Shade</tspan>
+                <tspan x="268.478" y="142" font-family="Lato-Regular, Lato" font-weight="normal">#cbccc4</tspan>
+                <tspan x="290" y="157" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="266.315857" y="172" font-family="Lato-Regular, Lato" font-weight="normal">Highlight</tspan>
+                <tspan x="266.726" y="187" font-family="Lato-Regular, Lato" font-weight="normal">#e8e8e1</tspan>
+            </text>
+            <text id="White-Lilac-#f6f6fb" font-family="Lato-Bold, Lato" font-size="12" font-weight="bold" line-spacing="15" letter-spacing="-0.042857144" fill="#42505E">
+                <tspan x="340.127714" y="22">White Lilac</tspan>
+                <tspan x="399.872286" y="22" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="349.998571" y="37" font-family="Lato-Regular, Lato" font-weight="normal">#f6f6fb</tspan>
+                <tspan x="370" y="52" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="370" y="67" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="370" y="82" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="370" y="97" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="370" y="112" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="354.045143" y="127" font-family="Lato-Regular, Lato" font-weight="normal">Shade</tspan>
+                <tspan x="345.91" y="142" font-family="Lato-Regular, Lato" font-weight="normal">#34404b</tspan>
+                <tspan x="370" y="157" font-family="Lato-Regular, Lato" font-weight="normal"></tspan>
+                <tspan x="346.315857" y="172" font-family="Lato-Regular, Lato" font-weight="normal">Highlight</tspan>
+                <tspan x="354.626714" y="187" font-family="Lato-Regular, Lato" font-weight="normal">#ffffff</tspan>
+            </text>
+        </g>
+    </g>
+</svg>
